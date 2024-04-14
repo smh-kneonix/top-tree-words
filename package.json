@@ -1,0 +1,19 @@
+{
+  "name": "top3words",
+  "version": "1.0.0",
+  "description": "find top tree most used words in pragraph",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "node --watch index",
+    "start": "node index"
+  },
+  "keywords": [
+    "top3"
+  ],
+  "author": "kneonix",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
